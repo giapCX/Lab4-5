@@ -1,0 +1,355 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "code": "WDP301",
+      "nameEn": "Web Development Project",
+      "nameVi": "Dự án phát triển Web",
+      "category": "GENERAL",
+      "badge": "WD",
+      "semester": "SUMMER2026",
+      "classes": [
+        {
+          "classId": "SE1919-NJ",
+          "name": "SE1919-NJ",
+          "status": "active",
+          "slots": [
+            {
+              "slotNumber": 1,
+              "date": "12/05/2026",
+              "time": "15:20-17:40",
+              "title": "INITIATION PHASE - Subject introduction - Subject introduction - Project environment preparation",
+              "questions": [
+                "【CODE-136503】 1_CQ1.1",
+                "【CODE-136505】 3_CQ1.3",
+                "【CODE-136504】 2_CQ1.2"
+              ]
+            },
+            {
+              "slotNumber": 2,
+              "date": "15/05/2026",
+              "time": "12:50-15:10",
+              "title": "REQUIREMENT ANALYSIS",
+              "questions": []
+            },
+            {
+              "slotNumber": 3,
+              "date": "19/05/2026",
+              "time": "15:20-17:40",
+              "title": "SYSTEM DESIGN",
+              "questions": []
+            },
+            {
+              "slotNumber": 4,
+              "date": "22/05/2026",
+              "time": "12:50-15:10",
+              "title": "DATABASE DESIGN",
+              "questions": []
+            },
+            {
+              "slotNumber": 5,
+              "date": "26/05/2026",
+              "time": "15:20-17:40",
+              "title": "API DEVELOPMENT",
+              "questions": []
+            },
+            {
+              "slotNumber": 6,
+              "date": "13/06/2026",
+              "time": "07:30-09:50",
+              "title": "FRONTEND INTEGRATION",
+              "questions": []
+            },
+            {
+              "slotNumber": 7,
+              "date": "02/06/2026",
+              "time": "15:20-17:40",
+              "title": "TESTING AND DEPLOYMENT",
+              "questions": []
+            },
+            {
+              "slotNumber": 8,
+              "date": "05/06/2026",
+              "time": "12:50-15:10",
+              "title": "PROJECT REVIEW 1",
+              "questions": []
+            },
+            {
+              "slotNumber": 9,
+              "date": "09/06/2026",
+              "time": "15:20-17:40",
+              "title": "PROJECT REVIEW 2",
+              "questions": []
+            },
+            {
+              "slotNumber": 10,
+              "date": "12/06/2026",
+              "time": "12:50-15:10",
+              "title": "FINAL DEFENSE PREPARATION",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "classId": "SE1920-NJ",
+          "name": "SE1920-NJ",
+          "status": "inactive",
+          "slots": []
+        },
+        {
+          "classId": "SE1918-NJ",
+          "name": "SE1918-NJ",
+          "status": "inactive",
+          "slots": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "code": "PFP191",
+      "nameEn": "Programming Fundamentals with Python",
+      "nameVi": "Cơ sở lập trình (với Python)",
+      "category": "GENERAL",
+      "badge": "PF",
+      "semester": "SUMMER2026",
+      "classes": [
+        {
+          "classId": "PFP191.1",
+          "name": "PFP191.1",
+          "status": "active",
+          "slots": [
+            {
+              "slotNumber": 1,
+              "date": "11/05/2026",
+              "time": "10:00-12:20",
+              "title": "Chapter 1. Why should you learn to write programs? (Part 1) 1.1 Creativity and Motivation 1.2 Computer hardware architecture 1.3 Understanding programming 1.4 Words and sentences 1.5...",
+              "assignments": [
+                "Exercise of If...else",
+                "Exercise slide 16,27,28",
+                "Exercise of List (cons)"
+              ]
+            },
+            {
+              "slotNumber": 2,
+              "date": "13/05/2026",
+              "time": "07:30-09:50",
+              "title": "Variables, expressions, and statements",
+              "assignments": []
+            },
+            {
+              "slotNumber": 3,
+              "date": "18/05/2026",
+              "time": "10:00-12:20",
+              "title": "Conditional execution",
+              "assignments": []
+            },
+            {
+              "slotNumber": 4,
+              "date": "20/05/2026",
+              "time": "07:30-09:50",
+              "title": "Functions",
+              "assignments": []
+            },
+            {
+              "slotNumber": 5,
+              "date": "25/05/2026",
+              "time": "10:00-12:20",
+              "title": "Iteration",
+              "assignments": []
+            },
+            {
+              "slotNumber": 6,
+              "date": "27/05/2026",
+              "time": "07:30-09:50",
+              "title": "Strings",
+              "assignments": []
+            },
+            {
+              "slotNumber": 7,
+              "date": "03/06/2026",
+              "time": "07:30-09:50",
+              "title": "Files",
+              "assignments": []
+            },
+            {
+              "slotNumber": 8,
+              "date": "06/06/2026",
+              "time": "12:50-15:10",
+              "title": "Lists",
+              "assignments": []
+            },
+            {
+              "slotNumber": 9,
+              "date": "08/06/2026",
+              "time": "10:00-12:20",
+              "title": "Dictionaries",
+              "assignments": []
+            },
+            {
+              "slotNumber": 10,
+              "date": "10/06/2026",
+              "time": "07:30-09:50",
+              "title": "Tuples",
+              "assignments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "code": "PRF192",
+      "nameEn": "Programming Fundamentals",
+      "nameVi": "Cơ sở lập trình",
+      "category": "TECH",
+      "badge": "PF",
+      "semester": "SUMMER2026",
+      "classes": [
+        {
+          "classId": "SE2124",
+          "name": "SE2124",
+          "status": "active",
+          "slots": [
+            {
+              "slotNumber": 1,
+              "date": "12/05/2026",
+              "time": "07:30-09:50",
+              "title": "Introduction and installing tools Basic concepts computer system; steps to develop a software Structure of a simple C program; C compiler",
+              "questions": [
+                "【CODE-137358】 1_CQ1.3",
+                "【CODE-137360】 2_CQ2.2",
+                "【CODE-137361】 2_CQ2.3",
+                "【CODE-137359】 2_CQ2.1",
+                "【CODE-137356】 1_CQ1.1",
+                "【CODE-137357】 1_CQ1.2"
+              ]
+            },
+            {
+              "slotNumber": 2,
+              "date": "15/05/2026",
+              "time": "10:00-12:20",
+              "title": "Variables and Data Types",
+              "questions": []
+            },
+            {
+              "slotNumber": 3,
+              "date": "19/05/2026",
+              "time": "07:30-09:50",
+              "title": "Operators and Expressions",
+              "questions": []
+            },
+            {
+              "slotNumber": 4,
+              "date": "22/05/2026",
+              "time": "10:00-12:20",
+              "title": "Control Flow - Conditional Statements",
+              "questions": []
+            },
+            {
+              "slotNumber": 5,
+              "date": "26/05/2026",
+              "time": "07:30-09:50",
+              "title": "Control Flow - Loops",
+              "questions": []
+            },
+            {
+              "slotNumber": 6,
+              "date": "02/06/2026",
+              "time": "07:30-09:50",
+              "title": "Functions and Scope",
+              "questions": []
+            },
+            {
+              "slotNumber": 7,
+              "date": "05/06/2026",
+              "time": "10:00-12:20",
+              "title": "Arrays and Strings",
+              "questions": []
+            },
+            {
+              "slotNumber": 8,
+              "date": "09/06/2026",
+              "time": "07:30-09:50",
+              "title": "Pointers",
+              "questions": []
+            },
+            {
+              "slotNumber": 9,
+              "date": "12/06/2026",
+              "time": "10:00-12:20",
+              "title": "Structures",
+              "questions": []
+            },
+            {
+              "slotNumber": 10,
+              "date": "13/06/2026",
+              "time": "12:50-15:10",
+              "title": "File Handling",
+              "questions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "code": "FER202",
+      "nameEn": "Front-End web development with React",
+      "nameVi": "Phát triển web Front-End với React",
+      "category": "TECH",
+      "badge": "FE",
+      "semester": "SUMMER2026",
+      "classes": [
+        {
+          "classId": "FER202_M_BL5",
+          "name": "FER202_M_BL5",
+          "status": "active",
+          "slots": [
+            {
+              "slotNumber": 21,
+              "date": "20/08/2026",
+              "time": "09:10-10:40",
+              "title": "11.3 Avoiding lazy components 11.4 Exploring lazy pages and routes Client - Server Communication 12.1 Set up a simple server that makes data available for clients LAB 5: Routes & Lazy Loading",
+              "content": "This slot has no content"
+            }
+          ]
+        },
+        {
+          "classId": "FER202_...",
+          "name": "FER202_...",
+          "status": "inactive",
+          "slots": []
+        },
+        {
+          "classId": "SE2009-NJ",
+          "name": "SE2009-NJ",
+          "status": "inactive",
+          "slots": []
+        },
+        {
+          "classId": "SE2004-NJ",
+          "name": "SE2004-NJ",
+          "status": "inactive",
+          "slots": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "code": "PRF193",
+      "nameEn": "Programming Fundamentals (with C/C++)",
+      "nameVi": "Cơ sở lập trình (với C/C++)",
+      "category": "TECH",
+      "badge": "PF",
+      "semester": "SUMMER2026",
+      "classes": [
+        {
+          "classId": "SE1924",
+          "name": "SE1924",
+          "status": "active",
+          "slots": []
+        }
+      ]
+    }
+  ]
+}
